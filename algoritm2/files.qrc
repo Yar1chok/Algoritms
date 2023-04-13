@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>play.png</file>
+    <file>icons8-воспроизведение-30.png</file>
+    <file>icons8-быстрая-перемотка-вперед-30.png</file>
+    <file>icons8-перемотка-назад-30.png</file>
+  </qresource>
+</RCC>
